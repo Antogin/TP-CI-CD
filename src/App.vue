@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Anto's app" />
+  <HelloWorld msg="Pause pour tout le monde" />
 </template>
 
 <script>
